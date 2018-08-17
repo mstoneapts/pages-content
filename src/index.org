@@ -1,0 +1,20 @@
+#+TITLE: Millestone Apartments
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2018-08-17 Fri]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document is an index to maintain Milestone
+  apartments.
+
+* Code of Conduct
+  These are the [[./rules.org][rules]] that define the code of conduct for
+  the residents of Milestone apartments.
+
+* Pending and Maintenance Works 
+  This [[./pending-works.org][document]] lists out pending and maintenance works
+  needed to keep the apartments in livable condition. 
+  

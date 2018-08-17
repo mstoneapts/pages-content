@@ -1,0 +1,53 @@
+#+TITLE: Pending Works
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2018-08-17 Fri]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document lists the pending works and the associated
+  costs. 
+
+* Maintenance and Pending Works
+
+** Plumbing
+   1. There are leaks from the north side bathrooms from 201
+      and 202 apartments to outside.  The exterior walls are
+      always wet and at times water drips from these walls.
+      Before any structural damage is done, these need to be
+      rectified.
+
+   2. 
+
+** Electricity
+   1. All the common lights have burned out and need
+      replacement.  This happened few months ago.  The
+      reason could be some short circuit in the wiring that
+      is laid in the ground for the watchman's room.  Water
+      leaked into the pipes and the insulation on the wires
+      is torn.
+
+   2. The wiring to the watchman room temporarily removed
+      from the ground.  This has to be redone along the
+      walls.
+   
+
+
+** Ducts
+   The water and sewage pipes run along the walls on either
+   side of the apartment in ducts that are open.  These
+   ducts need covering.
+
+** Painting
+   All common area needs painting.  The cracks in the walls
+   that are exposed to sun needs filling and a repaint.
+
+** Flooring on the terrace
+   Flooring on the entire terrace is needed. 
+
+** Club House and Garden
+   A club house for recreation and a place for social
+   hangouts on one side of the 
+

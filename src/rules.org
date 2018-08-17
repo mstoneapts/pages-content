@@ -1,0 +1,39 @@
+#+TITLE: Rules
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2018-08-17 Fri]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  This document lists out the rules for living at Milestone
+  Apartments.
+
+* Rules
+  1. Gates are closed and one of the gates is locked at
+     10:30 PM.  Each apartment is given a key that is used
+     to unlock the first gate.  Using this gate, a person
+     enters, opens the second gate, parks the car, locks the
+     first gate from outside, and bolts the second gate from
+     inside.
+
+  2. The garbage is put outside the apartment in a closed
+     *bin* in the morning by 7:00 AM for the pick up.
+     Please do not use plastic covers.  They will invariably
+     leak and smell.
+
+  3. Vehicles are parked only in their allocated places.
+
+  4. Do not pluck flowers, fruits, vegetables or leaves from
+     the garden.
+
+  5. Do not throw litter from your apartment.
+
+  6. Terrace is a restricted area.
+
+  7. Report any plumbing, electrical or any other problem
+     with the apartment immediately to the watchman.
+
+  8. 
